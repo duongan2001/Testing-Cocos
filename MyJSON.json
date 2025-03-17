@@ -1,5 +1,9 @@
 {
-    "phim":"phimnhat",
-    "link":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/v2.1.3/TigersPrecisionTraining/TigersPrecisionTraining.zip"
+    "auth":"16032025",
+    "local": [
+        "Asia/Ho_Chi_Minh",
+        "Asia/Hanoi",
+        "Asia/Saigon"
+    ]
 }
 
